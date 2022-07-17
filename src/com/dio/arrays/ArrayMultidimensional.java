@@ -20,7 +20,7 @@ public class ArrayMultidimensional {
             for (int numero: linha) {
                 System.out.print(numero+" ");
             }
-            System.out.println("\n");
+            System.out.print("\n");
         }
 
     }
